@@ -36,11 +36,15 @@ a {
 
 	text-decoration: none;
 	color: #777777;
+	padding-right: 13px;
+}
+
+#connectWithMe a {
 	padding-right: 23px;
 }
 
 #about {
-	border-right: 1px  #777777 solid
+	border-right: 1px  #777777 solid; 
 }
 
 
